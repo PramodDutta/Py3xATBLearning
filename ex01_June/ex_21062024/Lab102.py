@@ -6,6 +6,7 @@ my_dict['c'] = 11
 my_dict['d'] = 19
 print(my_dict)
 
+
 for k,v in my_dict.items():
     print(k,v)
 
