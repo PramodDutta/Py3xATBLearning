@@ -10,8 +10,7 @@ class Dog:
 dog1 = Dog("Chow", "1")
 dog2 = Dog("Mow", "2")
 dog3 = Dog()
-dog3.name = "now"
-dog3.id = "3"
+
 
 print(f'{dog1.name} has ID {dog1.id}')
 print(f'{dog2.name} has ID {dog2.id}')
